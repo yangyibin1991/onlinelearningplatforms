@@ -1,0 +1,32 @@
+{
+  "name": "onlinelearningplatforms",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "onlinelearningplatforms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yangyibin1991/onlinelearningplatforms"
+  },
+  "website": "https://github.com/yangyibin1991/onlinelearningplatforms.git",
+  "keywords": [
+    "onlinelearningplatforms"
+  ],
+  "author": "/",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangyibin1991/onlinelearningplatforms/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/yangyibin1991/onlinelearningplatforms#readme",
+  "dependencies": {
+    "simpletaskmanagementsystem": "1.0.2",
+    "baycmonkey": "1.0.2"
+  }
+}
